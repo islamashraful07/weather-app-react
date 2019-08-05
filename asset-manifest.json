@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/wather-app-react/static/css/main.2de43118.chunk.css",
-    "main.js": "/wather-app-react/static/js/main.a85bf93f.chunk.js",
-    "main.js.map": "/wather-app-react/static/js/main.a85bf93f.chunk.js.map",
-    "runtime~main.js": "/wather-app-react/static/js/runtime~main.21afee23.js",
-    "runtime~main.js.map": "/wather-app-react/static/js/runtime~main.21afee23.js.map",
-    "static/css/2.c289d19b.chunk.css": "/wather-app-react/static/css/2.c289d19b.chunk.css",
-    "static/js/2.9b3ead1c.chunk.js": "/wather-app-react/static/js/2.9b3ead1c.chunk.js",
-    "static/js/2.9b3ead1c.chunk.js.map": "/wather-app-react/static/js/2.9b3ead1c.chunk.js.map",
-    "index.html": "/wather-app-react/index.html",
-    "precache-manifest.c424e3febbd3baa86beaa20ddc31e049.js": "/wather-app-react/precache-manifest.c424e3febbd3baa86beaa20ddc31e049.js",
-    "service-worker.js": "/wather-app-react/service-worker.js",
-    "static/css/2.c289d19b.chunk.css.map": "/wather-app-react/static/css/2.c289d19b.chunk.css.map",
-    "static/css/main.2de43118.chunk.css.map": "/wather-app-react/static/css/main.2de43118.chunk.css.map",
-    "static/media/App.css": "/wather-app-react/static/media/bg.b6796c73.jpg",
-    "static/media/bootstrap.min.css": "/wather-app-react/static/media/glyphicons-halflings-regular.fa277232.woff"
+    "main.css": "/weather-app-react/static/css/main.7da600be.chunk.css",
+    "main.js": "/weather-app-react/static/js/main.df120f5d.chunk.js",
+    "main.js.map": "/weather-app-react/static/js/main.df120f5d.chunk.js.map",
+    "runtime~main.js": "/weather-app-react/static/js/runtime~main.a31b442a.js",
+    "runtime~main.js.map": "/weather-app-react/static/js/runtime~main.a31b442a.js.map",
+    "static/css/2.f36d893a.chunk.css": "/weather-app-react/static/css/2.f36d893a.chunk.css",
+    "static/js/2.9b3ead1c.chunk.js": "/weather-app-react/static/js/2.9b3ead1c.chunk.js",
+    "static/js/2.9b3ead1c.chunk.js.map": "/weather-app-react/static/js/2.9b3ead1c.chunk.js.map",
+    "index.html": "/weather-app-react/index.html",
+    "precache-manifest.1b00502a6cd61c5ff2abdbaafaa73c0d.js": "/weather-app-react/precache-manifest.1b00502a6cd61c5ff2abdbaafaa73c0d.js",
+    "service-worker.js": "/weather-app-react/service-worker.js",
+    "static/css/2.f36d893a.chunk.css.map": "/weather-app-react/static/css/2.f36d893a.chunk.css.map",
+    "static/css/main.7da600be.chunk.css.map": "/weather-app-react/static/css/main.7da600be.chunk.css.map",
+    "static/media/App.css": "/weather-app-react/static/media/bg.b6796c73.jpg",
+    "static/media/bootstrap.min.css": "/weather-app-react/static/media/glyphicons-halflings-regular.fa277232.woff"
   }
 }
